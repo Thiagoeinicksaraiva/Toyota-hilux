@@ -1,0 +1,254 @@
+
+html, body {
+    margin: 2px;
+    padding: 0;
+}
+
+
+
+#Imagem_fundo {
+    background: url(img/capa.jpg);
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+
+
+
+.coluna {
+    float: left;
+    padding: 1% 5%;
+    position: relative;
+}
+
+
+
+.centralizado{
+    text-align: center;
+    }
+    
+    
+    
+    .justificado {
+    text-align: justify;
+    
+    }
+    
+
+    
+    .destaques {
+        background-color: rgb(161, 134, 118);
+        width: 97%;
+    
+    }
+    
+    
+
+    section {
+        padding: 20px;
+        float: left;
+    }
+    
+
+
+    .tres {
+        width: 30%;
+        padding:4% 1%;
+        height: 60%;
+    }
+   
+
+
+#logodiv {
+    width: 100%;
+    position: relative;
+    text-align: left;
+    padding: 10px;
+}
+
+
+
+#menu {
+    float: right;
+    list-style: none;
+    margin-top: 0px;
+}
+
+
+
+.li {
+    float: right;
+    padding: 10px 10px 20px 10px;
+}
+
+
+
+.Li:hover {
+    background-color: rgb(32, 108, 179);
+    color: rgb(0, 255, 242);
+}
+
+
+
+header {
+    background-color:rgb(102, 132, 177);
+    color: rgb(5, 5, 5);
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+
+
+
+#logo {
+    width: 200px;
+    position: absolute;
+    top: 25px;
+    margin-left: 0%;
+}
+
+
+
+#Titulo {
+    color: white;
+    padding-top: 12%;
+    font-size: 70px;
+    line-height: 1%;
+}
+
+
+
+#site {
+    color: #f8f8f8;
+border: 6px rgb(38, 7, 179) solid;
+padding: 5px 5px 5px 5px ;
+border-radius: 10px;
+font-size: 20px;
+text-decoration: initial;
+margin-left: 44%;
+position: absolute;
+}
+
+
+
+#link {
+    color: #f8f8f8;
+border: 6px rgb(38, 7, 179) solid;
+padding: 5px 5px 5px 5px ;
+border-radius: 10px;
+font-size: 20px;
+text-decoration: initial;
+margin-left: 54%;
+position: absolute;
+}
+
+
+
+#pagina {
+    color: #f8f8f8;
+border: 6px rgb(38, 7, 179) solid;
+padding: 5px 5px 5px 5px ;
+border-radius: 10px;
+font-size: 20px;
+text-decoration: initial;
+margin-left: 32%;
+position: absolute;
+}
+
+
+
+.imagem {
+    width: 100%;
+    height: 380;
+    }
+
+    
+
+    .dois{
+        width: 40%;
+        height: 70%;
+    }
+
+
+
+    .destaque3{
+        background-color: rgb(124, 117, 129);
+        width: 97%;
+    }
+
+
+    
+.quatro {
+    width: 15%;
+}
+
+
+
+.img {
+    width: 111px;
+    }
+
+
+
+    .img1 {
+        width: 100%;
+        height: 150px;
+    }
+    
+
+
+    .img2 {
+        width: 120%;
+        height: 150px;
+    }
+    
+
+
+    .img3 {
+        width: 120%;
+        height: 150px;
+    }    
+
+
+
+    .destaque4 {
+        background-color: rgb(206, 206, 218);
+    }
+
+
+    
+    .destaque5 {
+        background-color: rgb(173, 173, 209);
+    }
+
+
+
+    .destaque6 {
+        background-color: #ffffff;
+        height: 40%;
+    }
+
+
+
+    #video{
+        font-size: 25px;
+    }
+
+
+
+    #sw4{
+        font-size: 25px;
+    }
+
+
+
+    #feedback {
+        font-size: 25px;
+    }
+
+
+
+    .sobremim {
+        font-size: 25px;
+    }
