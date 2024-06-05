@@ -7,7 +7,7 @@ html, body {
 
 
 #Imagem_fundo {
-    background: url(img/capa.jpg);
+    background: url(capa.jpg);
     height: 100%;
     text-align: center;
     background-size: cover;
