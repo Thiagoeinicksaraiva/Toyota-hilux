@@ -252,3 +252,29 @@ position: absolute;
     .sobremim {
         font-size: 25px;
     }
+
+
+
+
+@media all and (max-width: 768px) {
+   #menu {
+       visibility: hidden;
+   } 
+   .coluna, .dois, .tres, .quatro {
+        display: block;   
+        width: 80%;
+        padding: 0;
+        margin: 10px auto;
+        float: none;
+   }
+   #logodiv {
+       width: 100%;
+       position: relative;
+       text-align: center;
+       padding: 0px;
+   }
+   #logo {
+       margin-left: 0px;
+       transform: translateX(-50%);
+   }
+}
